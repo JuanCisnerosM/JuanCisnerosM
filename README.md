@@ -38,6 +38,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=JuanCisnerosM&theme=dark&hide_border=true)<br/>
 ![The Hans Continuum´sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=JuanCisnerosM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![The Hans Continuum´s Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanCisnerosM&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
