@@ -38,8 +38,10 @@
 
 
 ### STATS
-![The Hans Continuum´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCisnerosM&show_icons=true&theme=radical) 
-![The Hans Continuum´sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&layout=compact&theme=radical)
+![ttps://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JuanCisnerosM&theme=dark&hide_border=true)<br/>
+![The Hans Continuum´sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
