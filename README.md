@@ -13,10 +13,6 @@
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 
-
-
-
 ### Frameworks & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,15 +28,16 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### Certifications
+## 💻 Certifications
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
  - Introduccion a Tableau
 
 
-### STATS
+## 📊 STATS
 ![ttps://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JuanCisnerosM&theme=dark&hide_border=true)<br/>
 ![The Hans Continuum´sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=JuanCisnerosM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
