@@ -1,6 +1,8 @@
 <h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=8000&color=1B5BFF&center=true&vCenter=true&width=940&lines=%F0%9F%A7%A0+%E2%80%9CEl+conocimiento+no+tiene+final%2C+y+tampoco+el+c%C3%B3digo.%E2%80%9D+%E2%80%94+The+Hans+Continuum)](https://git.io/typing-svg)
+-->
+
 
 ## <img src= "https://github.com/JuanCisnerosM/JuanCisnerosM/blob/main/rsc/img/about_me.gif" width=6%> Stack
 
@@ -32,7 +34,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 
-## 💻 Certifications
+## Certifications
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
  - Introducción a la visualización de datos con Tableau
 
@@ -43,10 +45,10 @@
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 
 
-## 📊 STATS
-![ttps://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+## STATS
+![](https://github-readme-stats.vercel.app/api?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JuanCisnerosM&theme=dark&hide_border=true)<br/>
-![The Hans Continuum´sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCisnerosM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=JuanCisnerosM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![The Hans Continuum´s Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanCisnerosM&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
