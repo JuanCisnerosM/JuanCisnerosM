@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=8000&color=1B5BFF&center=true&vCenter=true&width=940&lines=%F0%9F%A7%A0+%E2%80%9CEl+conocimiento+no+tiene+final%2C+y+tampoco+el+c%C3%B3digo.%E2%80%9D+%E2%80%94+The+Hans+Continuum)](https://git.io/typing-svg)
 -->
 
+<img width="400" height="400" alt="octocat-JCM" src="https://github.com/user-attachments/assets/31cd13fd-c873-4e53-bb3d-1296eed81ca5"/>
 
 ## <img src= "https://github.com/JuanCisnerosM/JuanCisnerosM/blob/main/rsc/img/about_me.gif" width=6%> Stack
 
